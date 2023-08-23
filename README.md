@@ -4,7 +4,7 @@
 [PA Write Up](https://markefontenot.notion.site/PA-05-8263d28a81a7473d8372c6579abd6481)
 
 weekview GUI: 
-![weekView.png](src%2Fmain%2Fresources%2FweekView.png)
+![weekView.png](weekView.png)
 
 
 This Bullet Journal application supports a multitude of features 
